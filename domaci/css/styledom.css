@@ -1,0 +1,51 @@
+body{
+	font-size: 2em;
+	text-align: left; 
+	background-color: rgba(255,255,0,0.7);
+}
+header{
+	text-align: center;
+	font-size: 40px;
+	font-weight: bolder;
+	margin-top: 70px;
+	margin-bottom: 50px;
+}
+p.big{
+	color: blue;
+	font-family: serif;
+	font-style: bolder;
+	text-align: center;
+}
+span{
+	text-shadow: 3px 5px 4px green;
+	font-size: 40px;
+}
+p.same{
+	color: red;
+}
+div.thesecond{
+   float: right;
+   width: 320px; 
+   height: 330px;
+   margin: 4px;
+   color: #FFF;  
+   background:-moz-linear-gradient(DeepSkyBlue, Black);
+}
+div.firstone{
+	float: left;
+	border: solid;
+	margin-left: 100px;
+	margin-top: 100px;
+}
+.firstone:hover{
+	 background-color: rgb(255,0,0);
+}
+#different{
+	color: rgb(204,0,204);
+	font-style: verdana;
+}
+span#izuzetak{
+	font-size: inherit;
+	text-shadow: none;
+}
+/*Nisam nasao nacina da ekterno promenim kursor*/
