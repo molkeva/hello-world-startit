@@ -13,7 +13,7 @@ header{
 p.big{
 	color: blue;
 	font-family: serif;
-	font-style: bolder;
+	font-weight: bolder;
 	text-align: center;
 }
 span{
@@ -42,7 +42,7 @@ div.firstone{
 }
 #different{
 	color: rgb(204,0,204);
-	font-style: verdana;
+	font-family: verdana;
 }
 span#izuzetak{
 	font-size: inherit;
