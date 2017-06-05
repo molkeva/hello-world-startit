@@ -1,0 +1,39 @@
+header{
+	width: 100%;
+	height: 150px;
+	border: 1px dotted black;
+}
+#middle{
+	width: 60%;
+	height: 800px;
+	border: none;
+	margin: 100px 20% 30px 20%;
+}
+ul{ 
+    list-style-type: none;
+    width: 100%;
+}
+h1{
+	text-align: center;
+}
+li{
+	display: inline-block;
+	font-weight: bold;
+	font-size: 30px;
+	width: 70px;
+	height: 100%;
+	margin: 10px 50px;
+}
+img{
+	float: right;
+}
+p{
+	font-family: Garamond,serif;
+	font-style: normal;
+	font-size: 18px;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
