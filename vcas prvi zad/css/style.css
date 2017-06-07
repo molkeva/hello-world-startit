@@ -1,0 +1,40 @@
+#glavni {
+	width: 60%;
+	height: 80%;
+	margin-left: 20%;
+	margin-top: 10%;
+}
+img {
+	height: auto;
+    max-width: 100%;
+}
+#satekstom {
+	height:80%;
+	width:60%;
+	position: relative;
+	background-color: white;
+	padding: 10%;
+	margin-top: -10%;
+	margin-left: 10%;
+	box-shadow: 1px 1px 2px green;
+}
+h1{
+	margin-top: -20px;
+}
+p{ 
+    text-align: center;
+    padding-top: 20px;
+    color: green;
+}  
+#saslikom:hover{
+	box-shadow: 3px 3px 5px red;
+}
+#strumfeta:hover{
+	box-shadow: 2px 2px 3px grey;
+}
+
+#strumfeta{
+	height: 50px;
+    width: 50px;
+    float:right;
+}
